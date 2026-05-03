@@ -1,5 +1,6 @@
 # 📘 Qatar Foundation — Admin Portal (CertifyMe Intern Assessment)
 
+🌐 **Live Demo:** [https://certifyme-assignment-47d0.onrender.com](https://certifyme-assignment-47d0.onrender.com)  
 **Repository:** [https://github.com/kamranahmad786/CertifyMe_Assignment](https://github.com/kamranahmad786/CertifyMe_Assignment)  
 **Original Repo:** [https://github.com/Neerajvs32/Test1](https://github.com/Neerajvs32/Test1)
 
@@ -164,7 +165,9 @@ http://localhost:5000
 
 ## 🌐 Deployment
 
-The app is configured for deployment on **Render.com** (free tier).
+The app is deployed and live on **Render.com** (free tier).
+
+🔗 **Live URL:** [https://certifyme-assignment-47d0.onrender.com](https://certifyme-assignment-47d0.onrender.com)
 
 **Files added for deployment:**
 - `render.yaml` — Render service configuration
